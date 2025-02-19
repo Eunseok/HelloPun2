@@ -7,7 +7,7 @@ TagManager:
   - ChatInput
   - Ground
   - Obstacle
-  - Minigame
+  - MiniGame
   layers:
   - Default
   - TransparentFX
