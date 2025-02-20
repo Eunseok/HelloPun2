@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AIAssistantCustomInstructionsStorage">
+    <option name="instructions">
+      <map>
+        <entry key="AIAssistant.VCS.GenerateCommitMessage">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.VCS.GenerateCommitMessage" />
+              <option name="content" value="한국어로 답변하고 다음과 같은 태그를 지킨다&#10;&#9;•&#9;feat: 새로운 기능 추가&#10;&#9;•&#9;fix: 버그 수정&#10;&#9;•&#9;docs: 문서 변경&#10;&#9;•&#9;style: 코드 스타일 변경 (서식 수정, 세미콜론 추가 등); 기능 변경 없음&#10;&#9;•&#9;refactor: 코드 리팩토링 (기능 변화 없음)&#10;&#9;•&#9;test: 테스트 코드 추가 또는 리팩토링 (프로덕션 코드 변경 없음)&#10;&#9;•&#9;chore: 빌드 작업, 패키지 관리자 설정 등 변경 (프로덕션 코드 변경 없음)" />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be97cd08-b3b1-4c11-9737-d3f73e11be96" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonNetworkPart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../MultiplayerGame/Assets/Scripts/Player/PlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2tElvqeZZDPrBNT1KBej41Sv7XB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.AIAssistantPromptsLibrary&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Unity 에디터에 연결.Unity 에디터에 연결">
+    <configuration name="유닛 테스트(배치 모드)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/MacOS/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath $PROJECT_DIR$ -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="독립실행형 플레이어" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Builds/Mac.app/Contents/MacOS/HelloPun2" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Builds/Mac.app/Contents/MacOS" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unity 시작" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/MacOS/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath $PROJECT_DIR$ -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unity 에디터에 연결" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unreal 에디터에 연결 후 재생" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="be97cd08-b3b1-4c11-9737-d3f73e11be96" name="변경" comment="" />
+      <created>1739925349027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739925349027</updated>
+      <workItem from="1739925351527" duration="489000" />
+      <workItem from="1739926658670" duration="458000" />
+      <workItem from="1739928100312" duration="376000" />
+      <workItem from="1739928484282" duration="16324000" />
+      <workItem from="1739951853516" duration="7284000" />
+      <workItem from="1739965957652" duration="228000" />
+      <workItem from="1739966336902" duration="2201000" />
+      <workItem from="1739968712147" duration="594000" />
+      <workItem from="1740016768423" duration="598000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: 네트워크 매니저 추가 및 로그인 UI 구성 요소 구현">
+      <option name="closed" value="true" />
+      <created>1739933090143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739933090143</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: 새로운 태그 및 게임 오브젝트 추가&#10;&#10;- 새로운 태그 &quot;Player&quot; 추가&#10;- Scene에 &quot;Left&quot; 객체와 BoundaryCollider 추가&#10;- Tilemap 및 TilemapRenderer 구성 추가&#10;- 카메라 배경색 변경 및 MonoBehavior 스크립트 추가">
+      <option name="closed" value="true" />
+      <created>1739936854085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739936854085</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: 미니게임 관련 태그, 게임 오브젝트 및 레이어 설정 추가">
+      <option name="closed" value="true" />
+      <created>1739963285047</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739963285047</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: 새로운 Sprite GameObject와 Animator 추가 및 기존 화면 요소 수정&#10;&#10;- 새로운 Sprite GameObject 추가&#10;- Animator Controller 연결된 GameObject 추가&#10;- 기존 오브젝트 위치, 크기, Sprite 변경&#10;- 카메라 배경색 조정">
+      <option name="closed" value="true" />
+      <created>1739965311377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739965311377</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="feat: Add network manager and UI elements for connection" />
+    <MESSAGE value="feat: Add network manager and UI elements for login&#10;&#10;- Introduced `NetworkManager` with relevant MonoBehaviour scripts&#10;- Added new UI elements: `NicknameInput`, `BeforeConnect`, `AfterConnect`, and associated components&#10;- Updated tags in `TagManager` and platform-specific scripting define symbols in `ProjectSettings`" />
+    <MESSAGE value="feat: Add UI elements and Photon PUN2 support&#10;&#10;- Added new GameObjects including &quot;BeforeConnect,&quot; &quot;NicknameInput,&quot; &quot;NetworkManager,&quot; and associated components to SampleScene.&#10;- Defined new tag &quot;ChatInput&quot; and updated scripting define symbols for multiple platforms (Photon PUN2-related).&#10;- Adjusted serialized version for navigation mesh settings in SampleScene.&#10;- Integrated TMP (TextMeshPro) components for UI text handling." />
+    <MESSAGE value="feat : pun2 package install" />
+    <MESSAGE value="feat: 네트워크 매니저 추가 및 로그인 UI 구성 요소 구현" />
+    <MESSAGE value="feat: 새로운 태그 및 게임 오브젝트 추가&#10;&#10;- 새로운 태그 &quot;Player&quot; 추가&#10;- Scene에 &quot;Left&quot; 객체와 BoundaryCollider 추가&#10;- Tilemap 및 TilemapRenderer 구성 추가&#10;- 카메라 배경색 변경 및 MonoBehavior 스크립트 추가" />
+    <MESSAGE value="feat: 미니게임 관련 태그, 게임 오브젝트 및 레이어 설정 추가" />
+    <MESSAGE value="feat: 새로운 Sprite GameObject와 Animator 추가 및 기존 화면 요소 수정&#10;&#10;- 새로운 Sprite GameObject 추가&#10;- Animator Controller 연결된 GameObject 추가&#10;- 기존 오브젝트 위치, 크기, Sprite 변경&#10;- 카메라 배경색 조정" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 새로운 Sprite GameObject와 Animator 추가 및 기존 화면 요소 수정&#10;&#10;- 새로운 Sprite GameObject 추가&#10;- Animator Controller 연결된 GameObject 추가&#10;- 기존 오브젝트 위치, 크기, Sprite 변경&#10;- 카메라 배경색 조정" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
